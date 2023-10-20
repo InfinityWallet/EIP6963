@@ -1,5 +1,9 @@
 export const supportedWallets = [
   {
+    name: "Infinity Wallet",
+    url: "https://infinitywallet.io",
+  },
+  {
     name: "Brave",
     url: "https://brave.com",
   },
